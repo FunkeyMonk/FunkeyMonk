@@ -1,7 +1,7 @@
 - I’m @FunkeyMonk
 - I'm using this to store my projects just in case my computer blows up or something.
-- This is also for me to access my work on other computers when I need to.
-- Hopefully it can be used to show off my work. Eventually...
+- This is also for me to access my work on other computers when I need to and share code files.
+- Hopefully it can be used to show off my work eventually.
 
 <!---
 FunkeyMonk/FunkeyMonk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
